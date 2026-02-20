@@ -1,10 +1,19 @@
-<h1 align=center>Chrysthopher K. <p>(ochryss)</p></h1>
+<h1 align=center>Chrysthopher K. <p>(ochryss) <img src="https://slackmojis.com/emojis/20940-wave/download" width="30"/></p></h1>
 
-### Aprendendo Atualmente
-![Java](https://img.shields.io/badge/Java-%23FFFAE8.svg?style=for-the-badge&logo=openjdk&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Docker](https://img.shields.io/badge/DOCKER-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
----
+<div align=left>
+  <h3>Aprendendo Atualmente</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+</div>
+
 <div align=center>
-  <img src="https://streak-stats.demolab.com?user=ochryss&theme=great-gatsby&hide_border=true" alt="ochryss's GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/ochryss/ochryss/output/snake.svg" alt="Snake animation" />
 </div>
