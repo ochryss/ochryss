@@ -1,4 +1,4 @@
-<h1 align=center>Chrysthopher K. <p>(ochryss) <img src="https://slackmojis.com/emojis/20940-wave/download" width="30"/></p></h1>
+<h1 align=center>Chrysthopher K. <p>(ochryss)</p></h1>
 
 <div align=left>
   <h3>Aprendendo Atualmente</h3>
